@@ -1,13 +1,13 @@
 ## Hi there, I am Raffaele 👋
 
-### 💻 About Me
+###  About Me
 I am an Electronics Engineer currently pursuing a Master's degree in Embedded Systems at **Politecnico di Torino**. While I love bringing hardware to life, my true passion lies in digital logic, specifically **RTL design** and **Computer Architecture (CPU design)**. 
 
 - 🎓 **Education:** MSc in Embedded Systems @ PoliTo
-- 🔭 **Currently working on:** An Out-of-Order CPU design implementing Tomasulo's algorithm with a Reorder Buffer (ROB) for dynamic scheduling and branch prediction.
-- 🌱 **Currently learning:** Advanced CPU architecture (ALUs, Register Files), branch prediction techniques, and hardware-level Out-of-Order execution.
+-  **Currently working on:** An Out-of-Order CPU design implementing Tomasulo's algorithm with a Reorder Buffer (ROB) for dynamic scheduling and branch prediction.
+-  **Currently learning:** Advanced CPU architecture (ALUs, Register Files), branch prediction techniques, and hardware-level Out-of-Order execution.
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 - **Hardware Description:** VHDL, Verilog, SystemC
 - **Software & Scripting:** C, C++, Assembly (RISC-V/ARM), Python, Tcl
 - **EDA Tools:** Synopsys Design Compiler (DC), Xilinx Vivado, Intel Quartus, ModelSim
